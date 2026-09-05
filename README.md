@@ -45,6 +45,10 @@ Una descarga publicada no se presenta automáticamente como “verificada”. La
 
 El catálogo público se incorporará aquí únicamente a medida que sus fichas y artefactos queden verificados para la estructura actual de DesarrollAMO. No se publican entradas ficticias para completar un catálogo.
 
+## Verificar una descarga
+
+Guía de comprobación de SHA-256: [docs/VERIFY_DOWNLOAD.md](docs/VERIFY_DOWNLOAD.md).
+
 ## Alcance de este repositorio
 
 Este repositorio es **PRODUCT-PUBLIC**: contiene documentación y metadatos útiles para usuarios. El código de StoreAMO, los pipelines, claves, firma, infraestructura y procesos internos no forman parte de esta superficie pública.
