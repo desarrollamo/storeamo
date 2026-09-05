@@ -22,20 +22,20 @@ https://appstoreamo.netlify.app/
 
 **StoreAMO 0.4.3.87**
 
-https://github.com/amoedo7/StoreAMO/releases/download/v0.4.3.87/StoreAMO-0.4.3.87.apk
+https://github.com/desarrollamo/storeamo/releases/download/v0.4.3.87/StoreAMO-0.4.3.87.apk
 
 SHA-256 publicado:
 
-https://github.com/amoedo7/StoreAMO/releases/download/v0.4.3.87/SHA256SUMS.txt
+https://github.com/desarrollamo/storeamo/releases/download/v0.4.3.87/SHA256SUMS.txt
 
 ## Recuperación desde cero
 La semilla **StoreAMO 0.0.1** existe para instalar o recuperar la Store desde un dispositivo Android compatible.
 
-https://github.com/amoedo7/StoreAMO/releases/download/seed-v0.0.1/StoreAMO-0.0.1.apk
+https://github.com/desarrollamo/storeamo/releases/download/seed-v0.0.1/StoreAMO-0.0.1.apk
 
 Su SHA-256 se publica en:
 
-https://github.com/amoedo7/StoreAMO/releases/download/seed-v0.0.1/SHA256SUMS.txt
+https://github.com/desarrollamo/storeamo/releases/download/seed-v0.0.1/SHA256SUMS.txt
 
 ## Confianza
 

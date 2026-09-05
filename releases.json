@@ -4,15 +4,15 @@
   "stable": {
     "version": "0.4.3.87",
     "platform": "android",
-    "artifact": "https://github.com/amoedo7/StoreAMO/releases/download/v0.4.3.87/StoreAMO-0.4.3.87.apk",
-    "checksums": "https://github.com/amoedo7/StoreAMO/releases/download/v0.4.3.87/SHA256SUMS.txt",
+    "artifact": "https://github.com/desarrollamo/storeamo/releases/download/v0.4.3.87/StoreAMO-0.4.3.87.apk",
+    "checksums": "https://github.com/desarrollamo/storeamo/releases/download/v0.4.3.87/SHA256SUMS.txt",
     "sha256": "50a53f30211d9b0422d37dbf77e9cc4b0ead8bd6def1a2f7d7e98dc9fb005cb1"
   },
   "seed": {
     "version": "0.0.1",
     "platform": "android",
-    "artifact": "https://github.com/amoedo7/StoreAMO/releases/download/seed-v0.0.1/StoreAMO-0.0.1.apk",
-    "checksums": "https://github.com/amoedo7/StoreAMO/releases/download/seed-v0.0.1/SHA256SUMS.txt",
+    "artifact": "https://github.com/desarrollamo/storeamo/releases/download/seed-v0.0.1/StoreAMO-0.0.1.apk",
+    "checksums": "https://github.com/desarrollamo/storeamo/releases/download/seed-v0.0.1/SHA256SUMS.txt",
     "sha256": "30e92614c1499b493111412a152db9badfee41ec11345a77381eccb95dc22b05"
   }
 }
