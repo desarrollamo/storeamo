@@ -12,6 +12,12 @@ StoreAMO permite descubrir versiones publicadas, descargar artefactos oficiales 
 - Descargas: GitHub Releases oficiales
 - Integridad: SHA-256 publicado junto al artefacto
 
+## StoreAMO Web
+
+Usá la experiencia web desde cualquier dispositivo:
+
+https://appstoreamo.netlify.app/
+
 ## Descargar
 
 **StoreAMO 0.4.3.87**
